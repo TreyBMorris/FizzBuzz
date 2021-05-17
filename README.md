@@ -1,2 +1,2 @@
-# FizzBuzz2
- FizzBuzz Test ReWritten
+# Fizz Buzz
+ FizzBuzz Test 
